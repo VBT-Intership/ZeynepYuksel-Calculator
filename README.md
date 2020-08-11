@@ -1,1 +1,1 @@
-# ZeynepYuksel-Calculator
+Performs the 4 basic operations (+, -, *, /).
